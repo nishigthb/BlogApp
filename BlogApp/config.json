@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/myblogs",
+    "prod_uri": "mysql://root:@localhost/myblogs",
+    "fb_url": "https://facebook.com/myblogs",
+    "tw_url": "https://twitter.com/myblogs",
+    "gh_url":"https://github.com/myblogs",
+    "gmail-user": "youremail@gmail.com",
+    "gmail-password":"password",
+    "blog_name": "MyBlogs",
+    "login_image": "login.jpg",
+    "admin_user": "Admin",
+    "admin_password": "demo",
+    "tag_line": "The only place for all the articles",
+    "about_text": "Hello everyone ,we regularly posts various articles on tons of topics. So stay tuned for further articles! Happy Learning",
+    "upload_location": "C:\\Users\\Abc\\PycharmProjects\\flask_tut\\static",
+    "no_of_posts": 3
+  }
+}
