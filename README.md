@@ -38,5 +38,28 @@ Flask
 
 4.Run main.py
 
+## Admin login
+
+Username-Admin
+
+Password-demo
+
+### Demo ###
+Home Page
+<br><br>
+![](https://github.com/nishigthb/BlogApp/blob/main/BlogApp/assets/home.gif)
+<br><br>
+Add Post
+<br><br>
+![](https://github.com/nishigthb/BlogApp/blob/main/BlogApp/assets/add.gif)
+<br><br>
+Edit Post
+<br><br>
+![](https://github.com/nishigthb/BlogApp/blob/main/BlogApp/assets/edit.gif)
+<br><br>
+Delete Post
+<br><br>
+![](https://github.com/nishigthb/BlogApp/blob/main/BlogApp/assets/delete_blog.gif)
+
 
   
