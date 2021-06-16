@@ -47,7 +47,7 @@ Password-demo
 ### Demo ###
 Home Page
 <br><br>
-![](https://github.com/nishigthb/BlogApp/blob/main/BlogApp/assets/home.gif)
+![](https://github.com/nishigthb/BlogApp/blob/main/BlogApp/assets/home_blog.gif)
 <br><br>
 Add Post
 <br><br>
